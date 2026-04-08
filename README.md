@@ -49,7 +49,7 @@ Building modern web applications and improving every day 🚀
 
 - 🔭 I’m currently working with JS, React  
 - 🌱 Learning React deeper  
-- 📩 Reach me: ABIRKHAN0495@gmail.com
+- 📩 Reach me: abirkhan0495@gmail.com
 -  🎯 Improving problem-solving skills through real-world projects
 
 
@@ -82,6 +82,12 @@ Building modern web applications and improving every day 🚀
   <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
 </p>
 
+
+
+
+
+
+```javascript
 const abir = {
   name: "Abir Hossen",
   role: "Frontend Developer",
