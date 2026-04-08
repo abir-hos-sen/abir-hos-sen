@@ -81,3 +81,14 @@ Building modern web applications and improving every day 🚀
   <img src="https://skillicons.dev/icons?i=github" width="40"/>&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
 </p>
+
+const abir = {
+  name: "Abir Hossen",
+  role: "Frontend Developer",
+  pronouns: "he/him",
+  code: ["JavaScript", "HTML", "CSS"],
+  learning: ["React", "Component Structure"],
+  tools: ["Git", "GitHub", "VS Code"],
+  focus: ["Frontend Development", "Responsive Design"],
+  currentGoal: "Becoming a professional Software Engineer"
+};
