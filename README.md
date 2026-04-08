@@ -1,3 +1,6 @@
+
+![WhatsApp Image 2026-04-09 at 12 09 09 AM](https://github.com/user-attachments/assets/70f7a20b-a2c2-4742-b930-580ea28553cd)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Abir+Hossen;Frontend+Developer;React+Learner" />
 </p>
@@ -11,19 +14,19 @@ Frontend Developer 👨‍💻 | JavaScript & React Learner | Focused on Clean &
 Building modern web applications and improving every day 🚀
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/salmanhussainsakib/">
+  <a href="https://www.linkedin.com/in/abir-hos-sen/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5&scale=0.85"/>
   </a>&nbsp;
 
-<a href="mailto:sakibsalmanh@gmail.com">
+<a href="mailto:abirkhan0495@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&scale=0.85"/>
   </a>&nbsp;
 
-  <a href="https://github.com/salman-hussain-sakib">
+  <a href="https://github.com/abir-hos-sen">
     <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white&labelColor=000000&scale=0.85"/>
   </a>&nbsp;
 
-  <a href="https://twitter.com/sakibsalmanh">
+  <a href="https://x.com/ABIRHOSSENN">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2&scale=0.85"/>
   </a>
 </p>
@@ -35,7 +38,7 @@ Building modern web applications and improving every day 🚀
 
 
 
-   <img align="right" src=" width="250"/>
+   
 
 
 
