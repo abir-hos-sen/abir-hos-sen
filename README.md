@@ -53,17 +53,17 @@ Building modern web applications and improving every day 🚀
 -  🎯 Improving problem-solving skills through real-world projects
 
 
-
-
 <br clear="right"/>
 
-  
+
 #  My Focus :
 
 - 💻 Modern web apps  
 - 🎨 Clean UI  
 - 📚 Learning by building  
 
+
+  
 
 
   
