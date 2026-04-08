@@ -35,7 +35,8 @@ Building modern web applications and improving every day 🚀
 
 
 
-
+     
+<img align="right" src="https://github.com/user-attachments/assets/f2957a60-6596-4696-8901-b26c1f51674e" width="250"/>
 
 
    
