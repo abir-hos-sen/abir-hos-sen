@@ -48,7 +48,7 @@ Building modern web applications and improving every day 🚀
 
 - 🔭 I’m currently working with JS, React  
 - 🌱 Learning React deeper  
-- 📩 Reach me: sakibsalmanh@gmail.com
+- 📩 Reach me: ABIRKHAN0495@gmail.com
 -  🎯 Improving problem-solving skills through real-world projects
 
 
