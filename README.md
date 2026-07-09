@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-Frontend Developer 👨‍💻 | JavaScript & React Learner | Focused on Clean & Responsive UI
+Junior Full Stack Developer | React.js | Next.js | Node.js | Express.js | MongoDB | Building Modern Web Applications
 </h3>
 
 <p align="center">
