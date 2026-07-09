@@ -2,7 +2,7 @@
 ![WhatsApp Image 2026-04-09 at 12 09 09 AM](https://github.com/user-attachments/assets/70f7a20b-a2c2-4742-b930-580ea28553cd)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Abir+Hossen;Frontend+Developer;React+Learner,Junior Full Stack Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+There!+👋;I'm+Abir+Hossen;Frontend+Developer;React+Learner" />
 </p>
 
 
