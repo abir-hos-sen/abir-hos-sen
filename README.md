@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-Web Developer | React.js | Next.js | Node.js | Express.js | MongoDB 
+Junior Full Stack Developer| React.js | Next.js | Node.js | Express.js | MongoDB 
 </h3>
 
 <p align="center">
